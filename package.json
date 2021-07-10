@@ -1,0 +1,25 @@
+{
+  "name": "apirestnode",
+  "version": "1.0.0",
+  "description": "Curso de Node Clase 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fikoxy/ApiRestNode.git"
+  },
+  "author": "Roberto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fikoxy/ApiRestNode/issues"
+  },
+  "homepage": "https://github.com/fikoxy/ApiRestNode#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.11"
+  }
+}
